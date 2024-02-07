@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi my name is Mihir, I'm a high school student from Texas.
 
 <!--
 **Mihir45/Mihir45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
