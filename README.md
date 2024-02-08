@@ -1,4 +1,13 @@
-### Hi my name is Mihir, I'm a high school student from Texas.
+### Aspiring computer science student and lead programmer for Radicubs Robotics, FRC Team 7503!
+
+#### My Projects
+
+Holonomic Drive Follower for Radicubs Robotics
+Safety Hero, our submission for the BPA V04 Web Application challenge! A site made for K-12 students designed to teach online safety! Written in NodeJS using React and Express
+Dislack, a link between Discord and Slack
+Sir Riddle, a discord bot that gives riddles and some 
+Wizard Weather Wars, a fun Tkinter game I helped write for my middle school hackathon
+
 
 <!--
 **Mihir45/Mihir45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
