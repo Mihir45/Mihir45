@@ -2,11 +2,11 @@
 
 #### My Projects
 
-Holonomic Drive Follower for Radicubs Robotics
-Safety Hero, our submission for the BPA V04 Web Application challenge! A site made for K-12 students designed to teach online safety! Written in NodeJS using React and Express
-Dislack, a link between Discord and Slack
-Sir Riddle, a discord bot that gives riddles and some 
-Wizard Weather Wars, a fun Tkinter game I helped write for my middle school hackathon
+1. Holonomic Drive Follower for Radicubs Robotics
+2. Safety Hero, our submission for the BPA V04 Web Application challenge! A site made for K-12 students designed to teach online safety! Written in NodeJS using React and Express
+3. Dislack, a link between Discord and Slack
+4. Sir Riddle, a discord bot that gives riddles and some potentially server-breaking prizes for the winner :)
+5. Wizard Weather Wars, a fun Tkinter game I helped write for my middle school hackathon
 
 
 <!--
