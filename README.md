@@ -1,4 +1,4 @@
-### Aspiring computer science student and lead programmer for Radicubs Robotics, FRC Team 7503!
+### Studying computer engineer @ UT Austin, former captain of Radicubs Robotics, FRC Team 7503 💚🖤!
 
 #### My Projects
 
