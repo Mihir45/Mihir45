@@ -1,6 +1,6 @@
 ### Studying computer engineer @ UT Austin, former captain of Radicubs Robotics, FRC Team 7503 💚🖤!
 
-#### My Projects
+#### Some of my projects
 
 1. Rebuilt 2026, Reefscape 2025, Crescendo 2024, and Charged Up 2023 code for Radicubs Robotics
 2. Holonomic Drive Follower for Radicubs Robotics
