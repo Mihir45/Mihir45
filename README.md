@@ -2,12 +2,12 @@
 
 #### My Projects
 
-1. Reefscape 2025, Crescendo 2024, and Charged Up 2023 code for Radicubs Robotics (Repo Private)
+1. Rebuilt 2026, Reefscape 2025, Crescendo 2024, and Charged Up 2023 code for Radicubs Robotics
 2. Holonomic Drive Follower for Radicubs Robotics
-4. Safety Hero, our submission for the BPA V04 Web Application challenge! A site made for K-12 students designed to teach online safety! Written in NodeJS using React and Express.
-5. Dislack, a link between Discord and Slack
-6. Sir Riddle, a discord bot that gives riddles and some potentially server-breaking prizes for the winner :) (Repo Private)
-7. Wizard Weather Wars, a fun Tkinter game I helped write for my middle school hackathon!
+3. Safety Hero, our submission for the BPA V04 Web Application challenge! A site made for K-12 students designed to teach online safety! Written in NodeJS using React and Express.
+4. Dislack, a link between Discord and Slack
+5. Sir Riddle, a discord bot that gives riddles and some potentially server-breaking prizes for the winner :) (Repo Private)
+6. Wizard Weather Wars, a fun Tkinter game I helped write for my middle school hackathon!
 
 
 <!--
